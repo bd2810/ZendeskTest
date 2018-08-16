@@ -1,0 +1,8 @@
+{
+  "ticket": {
+    "id":	1000,
+    "subject":  "My first ticket in Zendesk!",
+    "comment":  { "body": "First comment." },
+    "priority": "urgent"
+  }
+}
