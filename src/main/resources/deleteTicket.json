@@ -1,0 +1,9 @@
+{
+  "ticket": {    
+    "subject":  	"Ticket which will be deleted!",
+    "type":			"task",
+    "external_id": 	"2000",
+    "comment":  	{ "body": "Adding a default delete comment." },
+    "priority": 	"low"
+  }
+}
