@@ -1,0 +1,9 @@
+{
+  "ticket": {    
+    "subject":  	"Ticket to which a new comment will be added!",
+    "type":		"task",
+    "external_id": 	"3000",
+    "comment":  	{ "body": "Adding a default comment." },
+    "priority": 	"low"
+  }
+}
